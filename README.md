@@ -108,6 +108,7 @@ Mangomint has no official MCP server. Cotlet.dev is a hosted MCP server that wor
 - [Glama](https://glama.ai/mcp/servers/cotlet-connect/mangomint-mcp)
 - [LobeHub](https://lobehub.com/mcp/cotlet-connect-mangomint-mcp)
 - [Odel](https://odel.app/modules/cotlet/mangomint)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/mangomint/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-mangomint-to-ai-agents-guide)
 
 ## Also works with
